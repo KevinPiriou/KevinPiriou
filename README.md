@@ -1,14 +1,14 @@
 Actually:
 
 - 🔭 Je suis actuellement en formation Js/React - @Wild_Code_School
-- 🌱 Je suis actuellement à la recherche d'une formation en alternance ...
-- 👯 Mon objectif est de devenir développeur web Full Stack ...
+- 🌱 Je suis actuellement à la recherche d'une formation en alternance 
+- 👯 Mon objectif est de devenir développeur web Full Stack Ruby/RoR 
 - 📫 Vous pouvez me contacter par : Linkedin & email 
 
 
 
 
-### Languages and Tools:
+### Languages et outils:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
