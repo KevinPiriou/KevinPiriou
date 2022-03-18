@@ -7,13 +7,11 @@
 - 🔭 Je suis à la recherche d'une formation en alternance 
 - 🎯 Mon objectif est de devenir Développeur Web Full Stack Ruby / RoR 
 - 📫 Vous pouvez me contacter par : Linkedin & email 
-<br/><br/>
-***
 
-### Me contacter
+
+#### Me contacter
 [![img_contact](./img/linkedin.svg)](https://www.linkedin.com/in/kevin-piriou-247252203)
 
-<br/><br/>
 ***
 ### Languages et outils:
 
