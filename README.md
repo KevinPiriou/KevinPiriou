@@ -11,8 +11,8 @@
 ***
 
 ### Me contacter
-[![img_contact](./img/linkedin.svg)](https://www.linkedin.com/in/kevin-piriou-247252203/#gh-light-mode-only)
-[![img_contact](./img/linkedin.svg)](https://https://www.linkedin.com/in/kevin-piriou-247252203/#gh-dark-mode-only)
+[![img_contact](./img/linkedin.svg)](https://www.linkedin.com/in/kevin-piriou-247252203)
+
 <br/><br/>
 ***
 ### Languages et outils:
@@ -25,13 +25,13 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
 <br/><br/>
 
-[![img_contact](./img/ruby.svg)](https://https://www.linkedin.com/in/kevin-piriou-247252203/#gh-dark-mode-only)
-[![img_contact](./img/rails.com.svg)](https://https://www.linkedin.com/in/kevin-piriou-247252203/#gh-dark-mode-only)
+![img_contact](./img/ruby.svg)
+![img_contact](./img/rails.com.svg)
 <img align="left" alt="Postgresql" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-[![img_contact](./img/trello.svg)](https://https://www.linkedin.com/in/kevin-piriou-247252203/#gh-dark-mode-only)
+![img_contact](./img/trello.svg)
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
     POO & MVC
