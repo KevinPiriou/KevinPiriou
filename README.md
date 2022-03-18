@@ -5,10 +5,7 @@ Actually:
 - 👯 Mon objectif est de devenir développeur web Full Stack ...
 - 📫 Vous pouvez me contacter par : Linkedin & email 
 
-### Connect with me:
 
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/kevin-piriou-247252203/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kevin-piriou-247252203/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
