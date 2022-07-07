@@ -3,9 +3,9 @@
 
 ### Actuellement:
 
-- 🌱 Je suis en formation Js/React - @Wild_Code_School
-- 🔭 Je suis à la recherche d'une formation en alternance 
-- 🎯 Mon objectif est de devenir Développeur Web Full Stack Ruby / RoR 
+- 🌱 Je suis admis pour la session de formation développeur d'applications en alternance 2022-2023 - @Wild_Code_School
+- 🔭 Je suis à la recherche d'une entreprise pour un contrat de professionnalisation 
+- 🎯 Mon objectif est de devenir Développeur FullStack Node.js/React 
 - 📫 Vous pouvez me contacter par : Linkedin & email 
 
 
